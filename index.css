@@ -80,8 +80,9 @@ span{
     .caja-central{
         position: static;
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         width: 90vh;
+        justify-content:center
     }
     .triangulo{
         border-left: 45vw solid  rgb(246,246,234);
